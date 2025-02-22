@@ -19,3 +19,27 @@ td {
 .time {
   height: 40px;
 }
+
+/* Event cell styling */
+.Event {
+  color: #fff;
+  text-align: center;
+  border-radius: 4px;
+  font-weight: normal;
+  height: 60px;
+  vertical-align: top;
+  transition: background-color 0.2s ease-in-out;
+}
+
+/* Color classes */
+.green {
+  background-color: #6CC57C;
+}
+
+.blue {
+  background-color: #4CB7ED;
+}
+
+.pink {
+  background-color: #ED4CC2;
+}
